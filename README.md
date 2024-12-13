@@ -10,6 +10,10 @@
   - [Configuring On-premises Active Directory within Azure VMs](https://github.com/JasaniiFreemanIT/configure-ad)
   - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/JasaniiFreemanIT/azure-network-protocols)
 
+- <b>Linux OS</b>
+  - [Linux OS & WebGUI Installation](https://github.com/JasaniiFreemanIT/Linux-Installation) 
+
+
 <h2>🤳Connect with me:</h2>
 
 [<img align="left" alt="Josh | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
