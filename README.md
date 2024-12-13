@@ -8,7 +8,6 @@
   - [osTicket: Ticket Lifecycle Examples](https://github.com/JasaniiFreemanIT/ticket-lifecycle)
 - <b>Linux OS</b>
   - [Linux OS & WebGUI Installation](https://github.com/JasaniiFreemanIT/Linux-Installation)
-  - [WireShark Installation](https://github.com/JasaniiFreemanIT/WireShark-Installation)
   - [WebGUI(RDP)Setup](https://github.com/JasaniiFreemanIT/WebGUI-RDP-Setup)
   - [WireShark Installation](https://github.com/JasaniiFreemanIT/WireShark-Installation)
 - <b>Microsoft Azure</b>
