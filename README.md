@@ -11,7 +11,8 @@
   - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/JasaniiFreemanIT/azure-network-protocols)
 
 - <b>Linux OS</b>
-  - [Linux OS & WebGUI Installation](https://github.com/JasaniiFreemanIT/Linux-Installation) 
+  - [Linux OS & WebGUI Installation](https://github.com/JasaniiFreemanIT/Linux-Installation)
+  - [WireShark Installation](https://github.com/JasaniiFreemanIT/WireShark-Installation)
 
 
 <h2>🤳Connect with me:</h2>
